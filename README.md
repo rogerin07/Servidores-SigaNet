@@ -1,5 +1,1 @@
-# memory-allocation
-# processos-python
-# cpu-em-python
-# Servidores-SigaNet
-# Servidores-SigaNet
+automatação baseada em nomes e ips
