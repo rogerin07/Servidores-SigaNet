@@ -156,7 +156,7 @@ class Satelite(Servidores):
 
 class Matriz(Servidores):
     def __init__(self):
-        super().__init__("Matriz", "xxxxxxxxxxxxx")
+        super().__init__("Matriz", "10.32.0.238")
         
 caminho_execuatvel = "\\\\10.32.0.236\\Babkup\\TI\\SigaNET Atendeten.exe"
 
