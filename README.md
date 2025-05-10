@@ -1,1 +1,1 @@
-automação em python usando POO, para instalar e executar um softaware de atendimento de clientes, usando o nome e ip de cada determinado servidor do painel e totem de senha da unidade, e trnasformar o códgio em executável depois usando o pyinstaller
+automação em python usando POO, para instalar e executar um softaware de atendimento de clientes, usando o nome e ip de cada determinado servidor do painel e totem de senha da unidade, e transformar o código em executável depois usando o pyinstaller
